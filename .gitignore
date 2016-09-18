@@ -1,0 +1,12 @@
+#Compiled python files
+*.pyc
+
+#Config file
+config.py
+
+#Some folders
+pymodules/*
+flask/*
+
+#DB
+app.db
